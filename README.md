@@ -1,8 +1,24 @@
-# 3dBaza
+# SOFTWARE Y RECURSOS PARA IMPRESORAS 3D
+
+CEP de Baza
+
+(12 horas)
+
+27 de septiembre, 3 y 5 de octubre y  8 de noviembre
+
+## Introducción
+
+Se trata un curso práctico en el que los participantes aprendan a utilizar el Software necesario para Diseñar en 3D y para trabajar con impresoras 3D.
+
+Se usará software abierto, viéndose algunas de las alternativas gratuitas.
+
+El alumno utilizará el ordenador para hacer diseños y utilizará el software de manejo de impresión 3D para ver cómo se imprimiría realmente.
+
+Se hablará del manejo de impresoras 3D, viendo su estructura y cómo manejarlas.
 
 ## Objetivos
 
-* Aprendre a encontrar modelos
+* Aprender a encontrar modelos
 * Aprender a realizar diseños sencillos en 3D​
 * Entender el funcionamiento de una impresora 3D
 * Aprender a calibrar y a poner a punto una impresora 3D
