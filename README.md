@@ -2,7 +2,7 @@
 
 CEP de Baza
 
-(12 horas)
+(20 horas)
 
 27 de septiembre, 3 y 5 de octubre y  8 de noviembre
 
@@ -50,3 +50,49 @@ Se hablará del manejo de impresoras 3D, viendo su estructura y cómo manejarlas
     * Configuración de perfiles de impresión
 
 * Uso de la impresora 3D en el aula
+
+## Indice
+
+### José Antonio Vacas @javacasm
+![CCbySA](images/CCbySQ_88x31.png)
+
+* *  *
+
+# Diseño e impresión en 3D
+## [¿Qué es?](./QueEs3D.md)
+## [¿Para qué sirve?](./ParaQueSirve3D.md)
+## [Aplicaciones](./Aplicaciones.md)
+## [Historia](./Historia.md.md)
+## [¿Dónde encontrar diseños?](./Repositorios.md)
+## [OpenSource](./OpenSource.md)
+## [Anatomía de una impresora](./impresora3D.md)
+## [Donde Comprar](./Comprar.md)
+
+
+# Impresión 3D
+
+## [Tecnologías de impresión 3D](./Teconologias.md)
+### [Tipos de impresoras](./Geometrias.md)
+### [Modelos de impresoras 3d](./Impresoras3D.md)
+### [Tipos de Filamentos](./Filamentos.md)
+
+## Manejando una impresora 3D
+
+### [Software de impresión](./Software.md)
+### [Formatos de impresión](./Formatos.md)
+### Funcionamiento
+## [Proceso de impresión](./Proceso_de_Impresion.md)
+### Mantenimiento y cuidados
+### [Solución de Problemas](./Problemas.md)
+
+# [Diseño 3D](Disenio3D.md)
+
+## [Herramientas de diseño](./HerramientasDisenio.md)
+### [Herramientas comerciales](./HerramientasComerciales.md)
+#### [ThinkerCad](./ThinkerCad.md)
+#### [SketchUp](./SketchUp.md)
+### [Herramientas OpenSource](./HerramientasOpenSource.md)
+#### [BlockScad](./BlockScad.md)
+#### [Freecad](./Freecad.md)
+
+# [Tareas](./Tareas.md)
