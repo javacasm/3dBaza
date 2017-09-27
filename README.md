@@ -6,7 +6,7 @@ CEP de Baza
 
 27 de septiembre, 3 y 5 de octubre y  8 de noviembre
 
-## https://github.com/javacasm/3dBaz
+## https://github.com/javacasm/3dBaza
 
 ## Introducción
 
