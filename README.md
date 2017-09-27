@@ -6,6 +6,8 @@ CEP de Baza
 
 27 de septiembre, 3 y 5 de octubre y  8 de noviembre
 
+## https://github.com/javacasm/3dBaz
+
 ## Introducción
 
 Se trata un curso práctico en el que los participantes aprendan a utilizar el Software necesario para Diseñar en 3D y para trabajar con impresoras 3D.
