@@ -9,7 +9,48 @@
 
 # Aplicaciones
 
-* Aplicaciones médicas
+
+
+## Aplicaciones escolares
+
+[Aparatos para el cole](https://www.thingiverse.com/javacasm/collections/cole)
+
+![ADN](https://cdn.thingiverse.com/renders/04/19/93/ee/b7/d2b5ca33bd970f64a6301fa75ae2eb22_preview_card.jpg)
+
+[Proyectos de ciencia](https://www.thingiverse.com/MakerBotLearning/collections/science-projects)
+
+![globe](https://cdn.thingiverse.com/renders/30/e8/04/d6/6d/IMG_1895_Crop_preview_card.jpg)
+
+![DNA](https://cdn.thingiverse.com/renders/b3/30/1e/02/f9/1a99206dd09823bf94f50f0091af27cb_preview_card.JPG)
+
+![Cells](https://cdn.thingiverse.com/renders/cb/27/3c/11/fb/61d0922c1fe213079382f35dd90a4a82_preview_card.jpg)
+
+## Juguetes
+
+[Spinners](https://github.com/javacasm/Spinners)
+
+![Spinners](https://github.com/javacasm/Spinners/raw/master/images/Montaje_testBench.jpg)
+
+
+## Matemáticas
+
+[Figuras geométricas](https://www.thingiverse.com/javacasm/collections/figuras-geometricas)
+
+![Figuras geométricas](https://cdn.thingiverse.com/renders/ca/20/46/b6/76/SAM_0732_preview_card.JPG)
+
+## Material de laboratorio
+
+[Material de Laboratorio](https://www.thingiverse.com/javacasm/collections/laboratorio)
+
+![pipeta](https://cdn.thingiverse.com/renders/d7/68/6a/35/52/IMG_1752_preview_card.jpg)
+
+## Química
+
+[Química](https://www.thingiverse.com/javacasm/collections/quimica)
+
+![Epinefrina](https://cdn.thingiverse.com/renders/94/43/04/e5/03/WP_20141007_010_preview_card.jpg)
+
+## Aplicaciones médicas
 
 [Hospital Marañón](https://twitter.com/hashtag/hospitalmara%C3%B1on3D?src=hash) [[ejemplo]](https://twitter.com/rupermac/status/722907922930380801)
 
@@ -21,9 +62,9 @@
 ![enable](./images/NEWRELOADED.jpg)
 ![enable2](./images/ISABELLAARMteam.jpg)
 
-* Aplicaciones para ingeniería
+## Aplicaciones para ingeniería
 
-	* Arquitectura
+### Arquitectura
 
 	![sydney hardbour bridge](https://c4.staticflickr.com/8/7369/9148811913_5e6288750d_n.jpg)
 	* Motores ([diseños](https://github.com/gNSortino/OSREngines))
@@ -58,5 +99,3 @@ Vemos en las noticas que [parte de la turbina de avión es una pieza impresa en 
 Buscamos [imágenes de modelos de turbinas](https://www.google.es/search?q=thingiverse++turbine&safe=off&espv=2&biw=1920&bih=895&source=lnms&tbm=isch&sa=X&ei=qXVcVbPsKIXwUKX6gKAH&ved=0CAYQ_AUoAQ). Más aún podemos buscar esos modelos [modelos de turbinas](https://www.thingiverse.com/tag:turbine/page:1)
 
 Finalmente vemos un [modelo que nos interesa](http://www.thingiverse.com/thing:76369), [descargamos los modelos](http://www.thingiverse.com/thing:76369/zip)
-
-# Busca sectores donde se puede usar
