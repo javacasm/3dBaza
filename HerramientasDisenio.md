@@ -19,11 +19,11 @@
 
 * [123d Design](http://www.mibqyyo.com/articulos/2015/02/02/aprendiendo-diseno-3d-123d-design/#/vanilla/discussion/embed/?vanilla_discussion_id=0)
 
-* [SketchUp](http://www.mibqyyo.com/articulos/2014/10/17/aprendiendo-diseno-3d-ii-sketchup/#/vanilla/discussion/embed/?vanilla_discussion_id=0)
+* [SketchUp](https://my.sketchup.com/app)
 
-* [Tinkercad](http://www.mibqyyo.com/articulos/2014/09/15/aprendiendo-diseno-3d-i-tinkercad/#/vanilla/discussion/embed/?vanilla_discussion_id=0	)
+* [Tinkercad](http://Tinkercad.com)
 
-* Blender
+* [Blender](https://www.blender.org/)
 
 * [netfabb](http://www.netfabb.com/engine_ultimaker.php)
 
