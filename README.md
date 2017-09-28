@@ -96,5 +96,6 @@ Se hablará del manejo de impresoras 3D, viendo su estructura y cómo manejarlas
 ### [Herramientas OpenSource](./HerramientasOpenSource.md)
 #### [BlockScad](./BlockScad.md)
 #### [Freecad](./Freecad.md)
+#### [Blender](./Blender.md)
 
 # [Tareas](./Tareas.md)
