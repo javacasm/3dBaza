@@ -9,7 +9,7 @@
 
 # Blender
 
-La última versión es la 2.78a
+La última versión es la 2.79
 
 ![blender](https://www.blender.org/wp-content/uploads/2016/09/blender_278_splash_hires.jpg)
 
