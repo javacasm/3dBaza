@@ -19,6 +19,8 @@
 
 * [Cura](http://ultimaker.com/software)
 
+([Versiones antiguas de 32 bits para Windows](https://ultimaker.com/en/products/cura-software/list))
+
 [Vídeo sobre uso de Cura](https://www.youtube.com/watch?v=2ElFWTCIAAo)
 
 * [Slic3r](https://www.youtube.com/watch?v=tlv_MOkPG54)
