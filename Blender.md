@@ -1,5 +1,5 @@
 # Semana del diseño
-## Febrero  2017
+## Septiembre  2017
 
 ### José Antonio Vacas @javacasm
 ![CCbySA](images/CCbySQ_88x31.png)
