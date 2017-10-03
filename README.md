@@ -91,7 +91,7 @@ Se hablará del manejo de impresoras 3D, viendo su estructura y cómo manejarlas
 
 ## [Herramientas de diseño](./HerramientasDisenio.md)
 ### [Herramientas comerciales](./HerramientasComerciales.md)
-#### [ThinkerCad](./ThinkerCad.md)
+#### [TinkerCad](./Tinkercad.md)
 #### [SketchUp](./SketchUp.md)
 ### [Herramientas OpenSource](./HerramientasOpenSource.md)
 #### [BlockScad](./BlockScad.md)
