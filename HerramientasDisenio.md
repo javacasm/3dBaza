@@ -10,7 +10,7 @@
 
 #### Herramientas de diseño en 3D
 
-![cad](http://www.deelip.com/images/2010-08-11-001.gif)
+![cad](./images/FourCylinderEngine.gif)
 
 * [FreeCad](http://www.freecadweb.org/)
 ![freecad](http://jeromeabel.net/files/ressources/democratie-industrielle/bonus-images/fab/FreeCAD_aeroponic_system.jpg) [Tutorial rápido](http://spainlabs.com/wiki/index.php?title=Tutorial_r%C3%A1pido_de_FreeCad) [videotutoriales](http://www.iearobotics.com/wiki/index.php?title=Dise%C3%B1o_de_piezas_con_Freecad) ([detalles](./Freecad.md))
@@ -31,4 +31,6 @@
 
 * [netfabb](http://www.netfabb.com/engine_ultimaker.php)
 
-* OpenCad
+* [OpenSCad](http://www.openscad.org/) ([Tutoriales](http://www.iearobotics.com/wiki/index.php?title=Obijuan_Academy#Tutoriales_Openscad))
+
+  ![OpenSCad](./images/openscad-screen-gear.jpg)
