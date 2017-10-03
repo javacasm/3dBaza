@@ -8,7 +8,7 @@
 
 * *  *
 
-# [ThinkerCad](https://www.tinkercad.com/)
+# [TinkerCad](https://www.tinkercad.com/)
 
 ![1](./images/tinkercad.png)
 
@@ -46,4 +46,4 @@
 1. Hacer un dado
 
 
-[Mini-Curso de ThinkerCad](https://www.youtube.com/playlist?list=PLWFBhjhRekOCKjZvrtUG7M988SZfh9TkJ)
+[Mini-Curso de TinkerCad](https://www.youtube.com/playlist?list=PLWFBhjhRekOCKjZvrtUG7M988SZfh9TkJ)
