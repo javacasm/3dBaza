@@ -29,8 +29,11 @@
 
 * [Blender](https://www.blender.org/) ([Detalles](./Blender.md))
 
-* [netfabb](http://www.netfabb.com/engine_ultimaker.php)
-
 * [OpenSCad](http://www.openscad.org/) ([Tutoriales](http://www.iearobotics.com/wiki/index.php?title=Obijuan_Academy#Tutoriales_Openscad))
 
   ![OpenSCad](./images/openscad-screen-gear.jpg)
+
+
+### Complementos
+
+* [netfabb](http://www.netfabb.com/engine_ultimaker.php) Software de corrección de errores
