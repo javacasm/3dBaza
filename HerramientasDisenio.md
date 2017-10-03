@@ -27,7 +27,7 @@
 
   ![Tinkercad](./images/Tinkercad.jpg)
 
-* [Blender](https://www.blender.org/)
+* [Blender](https://www.blender.org/) ([Detalles](./Blender.md))
 
 * [netfabb](http://www.netfabb.com/engine_ultimaker.php)
 
