@@ -43,7 +43,7 @@ Impresión 3D
 ## [Diseño 3D](Disenio3D.md)
 - [Herramientas de diseño](./HerramientasDisenio.md)
   * [Herramientas comerciales](./HerramientasComerciales.md)
-     * [ThinkerCad](./ThinkerCad.md)
+     * [TinkerCad](./TinkerCad.md)
      * [SketchUp](./SketchUp.md)
 
 - [Herramientas OpenSource](./HerramientasOpenSource.md)
