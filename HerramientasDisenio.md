@@ -21,7 +21,11 @@
 
 * [SketchUp](https://my.sketchup.com/app)
 
+  ![SketchUp](./images/sketchup-dimensions.jpg)
+
 * [Tinkercad](http://Tinkercad.com)
+
+  ![Tinkercad](./images/Tinkercad.jpg)
 
 * [Blender](https://www.blender.org/)
 
