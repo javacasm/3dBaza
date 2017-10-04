@@ -65,7 +65,7 @@ Se hablará del manejo de impresoras 3D, viendo su estructura y cómo manejarlas
 ## [¿Para qué sirve?](./ParaQueSirve3D.md)
 ## [Aplicaciones](./Aplicaciones.md)
 ## [Historia](./Historia.md.md)
-## [¿Dónde encontrar diseños?](./Repositorios.md)
+## [¿Dónde encontrar diseños?](./repositorios.md)
 ## [OpenSource](./OpenSource.md)
 ## [Anatomía de una impresora](./impresora3D.md)
 ## [Donde Comprar](./Comprar.md)
