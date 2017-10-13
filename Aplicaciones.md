@@ -25,6 +25,10 @@
 
 ![Cells](https://cdn.thingiverse.com/renders/cb/27/3c/11/fb/61d0922c1fe213079382f35dd90a4a82_preview_card.jpg)
 
+![celula montable](https://thingiverse-production-new.s3.amazonaws.com/renders/31/87/51/87/f2/882eee1e76aaafc4e3609c0776acdadb_preview_featured.jpg)
+
+[Modelo](https://www.thingiverse.com/thing:2485063)
+
 ## Juguetes
 
 [Spinners](https://github.com/javacasm/Spinners)
