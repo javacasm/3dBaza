@@ -57,9 +57,23 @@ Vista de capas
 ## Uso normal
 * Plástico
 * Menú de impresión
+* Calibración
+* Detección de problemas
 
 ## Diseño
 
 ### Repositorios
 
 ### Tinkercad
+
+#Dia 3
+
+* Arquitectura impresora
+* Arquitectura extrusor
+* Atascos
+
+## Diseño
+
+### Repositorio
+
+### Frecad
